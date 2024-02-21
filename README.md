@@ -15,10 +15,11 @@ Explore a mix of projects, from websites to small coding challenges. Whether it'
 - **Web Dev:** Interactive websites and applications.
 - **Data Science:** Playing with data to uncover insights.
 - **Coding Challenges:** Solutions to interesting problems.
+- **Basic:** Simple projects to clear my basic coding logic.
 
 ## Ongoing Journey
 
-This repository is a work in progress. As I continue to learn and code, I'll be adding more projects. Your feedback and contributions are welcome!
+I'm currently on a quest to learn new languages like Python, Rust, and PHP. The repository is a work in progress, with more projects to come. Your feedback and contributions are always welcome!
 
 ## Thanks for Dropping By!
 
