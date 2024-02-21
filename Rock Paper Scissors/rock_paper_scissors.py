@@ -17,5 +17,6 @@ def play():
 def isWin(player, opponent):
     if (player == 'r' and opponent == 's') or (player == 'p' and opponent == 'r') or (player == 's' and opponent == 'p'):
         return True
+    
 print(play())
 print("------------------------")
