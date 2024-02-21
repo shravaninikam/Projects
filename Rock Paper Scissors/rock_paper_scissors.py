@@ -7,12 +7,12 @@ def play():
     print("------------------------")
 
     if user == computer:
-        return "It's a tie"
+        return "💀 It's a tie"
 
     if isWin(user, computer):
-        return "You have won!"
+        return "⭐ You have won!"
 
-    return "You have lost"
+    return "😢 You have lost"
 
 def isWin(player, opponent):
     if (player == 'r' and opponent == 's') or (player == 'p' and opponent == 'r') or (player == 's' and opponent == 'p'):
